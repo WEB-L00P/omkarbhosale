@@ -19,7 +19,7 @@ const Profile = () => {
         <Info />
         <div className="btns flex justify-center gap-5 my-4">
           <button className="bg-blue-600 hover:bg-blue-400 transition-colors duration-300 px-3 py-1 rounded-md text-white font-bold text-xl">
-            <a href="https://book.stripe.com/5kA7waerQd8Og6saEE">Hire Me</a>
+            <a href="https://buy.stripe.com/test_5kA5lL07u9fv6TCaEE">Hire Me</a>
           </button>
           <button className="bg-blue-600 hover:bg-blue-400 transition-colors duration-300 px-3 py-1 rounded-md text-white font-bold text-xl">
             <a href={Resume} download>
