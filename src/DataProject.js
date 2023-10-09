@@ -1,5 +1,11 @@
 export const DataProject = [
   {
+    title: "Codedamn Hacktoberfest 2023",
+    para: "Solving all 30Days coding challange by codedamn. Track my progress and code by below link",
+    img: "https://media.discordapp.net/attachments/1066265844167999488/1160762139481493585/Hacktoberfest-2023-Codedamn.png?ex=6535d6fb&is=652361fb&hm=df7f4a15de7fd28737b594a7e8529839355c9ae213f768d2a316d76526cc2176&=&width=1551&height=888",
+    link: "https://github.com/0mkarBhosale07/codedamn-hacktoberfest-2023",
+  },
+  {
     title: "MovieLog Pro",
     para: "This is a fully responsive clone of IMDB created using React, Tailwind CSS, React Router, TheMovieDB API.",
     img: "https://media.discordapp.net/attachments/1075106029869735936/1080757668408467496/Movie_Log.png?width=1165&height=597",
